@@ -1,0 +1,9 @@
+title: Free Edge Studio
+email: rachelmarievalente@gmail.com
+baseurl: ""
+url: "https://free-edge.studio"
+instagram_username: the.free.edge
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-redirect-from
